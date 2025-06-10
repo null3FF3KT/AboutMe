@@ -1,6 +1,6 @@
 # About Me
 
-I’m a software developer who works primarily in C#, .NET (mainly .NET 6), Angular, and TypeScript/JavaScript. I use Linux Mint as my main operating system and keep Windows 11 virtualized in VirtualBox when needed. I rely heavily on AI tools to assist with prototyping, debugging, and design, but I approach their output critically—always testing assumptions and verifying results.
+I’m a software developer who works primarily in C#, .NET, Angular, and TypeScript/JavaScript. I use Linux Mint as my main operating system and keep Windows 11 virtualized in VirtualBox when needed. I rely heavily on AI tools to assist with prototyping, debugging, and design, but I approach their output critically—always testing assumptions and verifying results.
 
 My work often involves building practical solutions using Azure services, including Azure AI, Key Vault, Blob Storage, and Microsoft Graph API. One of my active projects is a voice-enabled assistant (VOICE.UI) that combines speech-to-text, GPT-driven conversation, and text-to-speech—all built into a modular architecture.
 
