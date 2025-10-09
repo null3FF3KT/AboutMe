@@ -14,6 +14,8 @@ My career goal is simple: **make intelligent systems usable, explainable, and wo
 
 - **Applied AI / Azure AI Services**
   - Azure OpenAI, Cognitive Search, Language Studio, Form Recognizer, Anomaly Detector
+- **Identity, Access, and Integration**
+  - Azure Entra ID (formerly Azure AD), Microsoft Graph API, SharePoint REST and Graph integrations, IAM workflows
 - **Software Engineering**
   - C#, .NET 6–9, Entity Framework, REST APIs, Azure Functions, Power BI, Power Automate
 - **Frontend Development**
@@ -29,8 +31,10 @@ My career goal is simple: **make intelligent systems usable, explainable, and wo
 
 ### **Raistone Capital, LLC — AI Engineer / Full Stack Software Engineer**  
 *Dec 2021 – Present (Remote)*  
-- Built Angular apps and .NET APIs hosted on Azure supporting $11B in accounts-receivable financing.  
-- Integrated Azure AI services for document classification, cognitive search, and OpenAI-based workflows.  
+- Built Angular apps and .NET APIs hosted on Azure supporting $11B in accounts-receivable financing and 65,000+ payment transactions.  
+- Integrated **Azure AI services** for document classification, cognitive search, and OpenAI-based workflows.  
+- Designed and implemented **IAM and Entra ID**-based authorization for secure multi-tenant access to internal applications.  
+- Created a **SharePoint integration** with the core engine using **Microsoft Graph API** and Entra ID, enabling automated document uploads to targeted SharePoint folders for client portfolios.  
 - Delivered automation that reduced manual risk review time and improved fraud detection accuracy.  
 - Contributed to architecture, cross-team integration, and internal risk automation strategy.
 
@@ -66,9 +70,9 @@ My career goal is simple: **make intelligent systems usable, explainable, and wo
 
 ## ⚙️ Current Focus
 
-- Deploying production-grade AI services for **fraud and credit-risk analysis**
-- Integrating **M365 Copilot and Power Automate** with Graph API for intelligent workflows
-- Maintaining a **self-hosted lab** running Azure, Docker, and local AI tools
+- Deploying production-grade AI services for **fraud and credit-risk analysis**  
+- Integrating **M365 Copilot, Power Automate, and Graph API** for intelligent enterprise workflows  
+- Maintaining a **self-hosted lab** running Azure, Docker, and local AI tools  
 - Using structured systems like **TELOS** and **Position Tickets** to track progress and decisions
 
 ---
@@ -101,4 +105,3 @@ Good tools don’t just process data—they **change decisions**.
 ---
 
 *Last updated: October 2025*
-
