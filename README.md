@@ -81,7 +81,6 @@ My career goal is simple: **make intelligent systems usable, explainable, and wo
 
 > “I build tools for people who don’t want to learn to use them.”
 
-I’m driven by curiosity, not speed.  
 I’d rather design something that lasts than ship something that breaks.  
 Good tools don’t just process data—they **change decisions**.
 
