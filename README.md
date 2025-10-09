@@ -71,7 +71,7 @@ My career goal is simple: **make intelligent systems usable, explainable, and wo
 ## ⚙️ Current Focus
 
 - Deploying production-grade AI services for **fraud and credit-risk analysis**  
-- Integrating **M365 Copilot, Power Automate, and Graph API** for intelligent enterprise workflows  
+- Integrating **M365 Copilot and Graph API** for intelligent enterprise workflows  
 - Maintaining a **self-hosted lab** running Azure, Docker, and local AI tools  
 - Using structured systems like **TELOS** and **Position Tickets** to track progress and decisions
 
@@ -79,7 +79,7 @@ My career goal is simple: **make intelligent systems usable, explainable, and wo
 
 ## 🧩 Philosophy
 
-> “I build tools for people who don’t want to learn them.”
+> “I build tools for people who don’t want to learn to use them.”
 
 I’m driven by curiosity, not speed.  
 I’d rather design something that lasts than ship something that breaks.  
@@ -98,9 +98,8 @@ Good tools don’t just process data—they **change decisions**.
 
 ## 🔗 Links
 
-- 🌐 [https://cjbii.com](https://cjbii.com)  
 - 🌦️ [https://billofdoughs.com/weather](https://billofdoughs.com/weather)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/clintonbilledeaux/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cjbii/)  
 
 ---
 
